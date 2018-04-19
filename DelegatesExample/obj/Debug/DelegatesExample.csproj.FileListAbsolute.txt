@@ -1,0 +1,5 @@
+C:\MyDropBox\Dropbox\dev\ThePlayground\Basics\DelegatesExample\DelegatesExample\bin\Debug\DelegatesExample.exe
+C:\MyDropBox\Dropbox\dev\ThePlayground\Basics\DelegatesExample\DelegatesExample\bin\Debug\DelegatesExample.pdb
+C:\MyDropBox\Dropbox\dev\ThePlayground\Basics\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.csprojResolveAssemblyReference.cache
+C:\MyDropBox\Dropbox\dev\ThePlayground\Basics\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.exe
+C:\MyDropBox\Dropbox\dev\ThePlayground\Basics\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.pdb
